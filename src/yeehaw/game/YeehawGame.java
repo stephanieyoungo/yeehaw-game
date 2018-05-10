@@ -18,6 +18,7 @@ public class YeehawGame {
         System.out.println("Change and add to git");
         System.out.println("pls");
         System.out.println("plssss");
+        System.out.println("sami's laptop test");
     }
     
 }
